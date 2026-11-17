@@ -1,0 +1,8 @@
+[{
+  "_id": "h1",
+  "paciente_id": "p1",
+  "medico_responsable_id": "m1",
+  "habitacion": "201-A",
+  "estado": "activa",
+  "motivo": "Infarto agudo"
+}]

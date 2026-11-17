@@ -1,0 +1,18 @@
+[{
+  "_id": "med1",
+  "nombre": "Losartan 50mg",
+  "stock": 180,
+  "precio_unitario": 12500
+},
+{
+  "_id": "med2",
+  "nombre": "Acetaminofen 500mg",
+  "stock": 650,
+  "precio_unitario": 5500
+},
+{
+  "_id": "med3",
+  "nombre": "Ibuprofeno 600mg",
+  "stock": 320,
+  "precio_unitario": 9000
+}]
